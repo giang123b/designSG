@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SELF GROWTH</string>
+    <string name="open">open</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cau1">Một công ty khởi nghiệp (startup) được định nghĩa bằng sự tăng trưởng. Để đạt đến sự tăng trưởng bền vững, team phải tập trung và đi thật nhanh. Bạn biết đấy, rất khó để làm những điều quan trọng, phân bố sự ưu tiên và không bị phân tâm bởi những thứ khác. Đấy chính là lúc OKR (Objectives and Key Results) phát huy tác dụng.</string>
+    <string name="cau2">OKR là một phương pháp thiết lập mục tiêu hiệu quả giúp bạn vận hành công ty tốt, bằng cách giữ cho team tập trung và cùng hướng đến một kết quả chung.</string>
+    <string name="cau3">OKR đã được sử dụng bởi các công ty thành công như Google, LinkedIn, Twitter, Uber, MongoDB và rất nhiều tổ chức khác ở thung lũng Silicon. Trong bài này, bạn sẽ biết rõ OKR là gì và cách sử dụng OKR hiệu quả trong tổ chức của bạn.</string>
+    <string name="cau4">OKR là một danh sách các mục tiêu mang tính định lượng (có thể đo đếm được), được thiết lập cho một khoảng thời gian cố định. Thường OKR được thiết lập theo quý. Mỗi mục tiêu sẽ có ít hơn 5 kết quả then chốt với những con số rõ ràng. Mục tiêu là thứ bạn cần đạt được và kết quả then chốt là cách bạn thực thi để đạt được nó. Kết quả then chốt giúp bạn đo được bạn có đạt được mục tiêu vào cuối kỳ hay không.</string>
+    <string name="cau5">OKR sẽ được thiết lập cho từng cấp bậc trong tổ chức của bạn: cấp công ty, cấp team và cấp cá nhân. Mục đích chính của OKR là giúp team tập trung sức lực của họ và cùng hướng đến sự thành công. OKR giúp bạn tạo ra một sự hợp tác thật tâm trong tổ chức của mình, giao tiếp với nhau chính xác và có thể đo đếm được mức độ thành công. Do đó, bạn sẽ luôn biết được bạn còn cách đích bao xa. Điều này giữ cho team của bạn làm việc với gia tốc và cường độ cao.</string>
+    <string name="cau6">Để đạt được sự hiệu quả, OKR phải có các thuộc tính bên dưới:</string>
+    <string name="cau7">- Tham vọng: mục tiêu của bạn phải thực sự tham vọng, thậm chí có vẻ không thể đạt được. Nó nên là một thứ gì đó nằm ngoài vùng thoải mái, như Rick Klau từng nói. Nhưng hãy giữ nó thực tế và rõ ràng.</string>
+    <string name="cau8">- Đo đếm được: mục tiêu được đo đếm bằng các kết quả then chốt. Kết quả then chốt phải được đo đếm dễ dàng bằng các con số. Nó có thể là phần trăm hoặc các số cụ thể. Google dùng thang đo từ 0 đến 1 để đánh giá các kết quả then chốt.</string>
+    <string name="cau9">- Công khai: OKR của bất kỳ cấp bậc nào trong tổ chức cũng phải được công khai. Đó là điều cần thiết để bạn biết được điều gì quan trọng và những người khác đang làm gì.</string>
+    <string name="cau10">- Tương quan: để giữ mọi người tập trung và di chuyển cùng một hướng, các mục tiêu phải tương quan và kết nối đến nhau.</string>
+    <string name="cau11">- Khi bạn thiết lập mục tiêu của mình, mức độ hoàn thành mục tiêu nằm giữa 60% đến 70% là ổn. Nếu bạn đạt thấp hơn, đừng nghĩ là mình đã thất bại, mà hãy nghĩ đó là một cơ hội để mình học hỏi và làm tốt hơn vào lần tiếp theo. Nếu bạn đạt 100%, rõ ràng là mục tiêu của bạn chưa đủ tham vọng. Và một điều cực kỳ quan trọng là không sử dụng OKR để đánh giá năng lực nhân viên.</string>
+    <string name="cau12">Khi đặt một mục tiêu rõ ràng, mọi người trong team sẽ tập trung vào một kết quả chung duy nhất. OKR luôn cho bạn biết cái gì ưu tiên nhất và giữ cho bạn khỏi bị phân tâm. Với những mục tiêu tham vọng, bạn sẽ luôn cố gắng làm tốt hơn và tiến xa hơn vào những thứ tưởng chừng như không khả thi. OKR giúp cho các thành viên trong team gắn bó và làm việc hiệu quả vì họ biết cái gì cần hoàn thành, họ đang được mong đợi điều gì và làm sao đóng góp vào sự tăng trưởng của công ty.</string>
+    <string name="cau13">OKR là một phương pháp mạnh mẽ để thiết lập, thực thi và đạt mục tiêu. Nhưng để nó thực sự hiệu quả ở doanh nghiệp của bạn, hãy chắc chắn để mọi người cùng tham gia và cùng cam kết. Khi được triển khai tốt, OKR sẽ hình thành một văn hoá thiết lập và vươn đến các mục tiêu trong team startup. Đây là chìa khoá của sự tăng trưởng. Giờ thì bạn đã biết mọi thứ về OKR, bạn sẽ thử áp dụng nó vào startup của mình chứ?</string>
+
+</resources>
